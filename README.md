@@ -7,7 +7,7 @@ A hello world application for electron
 Clone the repository:
 
 ```sh
-git clone git@gitlab.com:possibility/picasso.git
+git clone git@github.com:AdinoyiSadiq/helloworld-electron.git
 ```
 
 From the Terminal, navigate to the project directory (i.e. `/helloworld/`):
