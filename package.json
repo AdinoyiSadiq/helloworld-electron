@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "description": "electron helloworld",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "Adinoyi Sadiq",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
